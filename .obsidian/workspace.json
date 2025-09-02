@@ -4,22 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "938289d455b9ec8e",
+        "id": "2346ab59cd0325d5",
         "type": "tabs",
+        "dimension": 59.98583569405099,
         "children": [
           {
-            "id": "faba9ef2b5ee4915",
+            "id": "a93d68f988a75b3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Математический анализ/Операции объединения и пересечения.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
+              "title": "Операции объединения и пересечения"
+            },
+            "group": "2a32a2da8361dd17"
+          }
+        ]
+      },
+      {
+        "id": "d12f5826f3ada306",
+        "type": "tabs",
+        "dimension": 40.01416430594901,
+        "children": [
+          {
+            "id": "30e70c077d222d43",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Математический анализ/Операции объединения и пересечения.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Операции объединения и пересечения"
+            },
+            "group": "2a32a2da8361dd17"
           }
         ]
       }
@@ -94,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Математический анализ/Операции объединения и пересечения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Операции объединения и пересечения"
             }
           },
           {
@@ -113,11 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Математический анализ/Операции объединения и пересечения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Операции объединения и пересечения"
             }
           },
           {
@@ -149,11 +198,13 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,14 +217,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "faba9ef2b5ee4915",
+  "active": "a93d68f988a75b3a",
   "lastOpenFiles": [
+    "Математический анализ/Понятие множества.md",
+    "Математический анализ/Операции объединения и пересечения.md",
+    "README.md",
+    "Математический анализ/Кванторы и символы.md",
+    "home/alex/files/SecondBrain/Математический.md",
+    "home/alex/files/SecondBrain",
+    "home/alex/files",
+    "home/alex",
+    "home",
+    "\"Математический.md",
+    "Математический.md",
+    "().md",
+    "Математический анализ/Untitled.base",
+    "Математический анализ",
     "pushchanges.sh",
     "pushchanges.sg",
     "Пустой документ",
     "update.sh",
-    "README.md",
-    "Welcome.md",
-    "Untitled.base"
+    "Welcome.md"
   ]
 }
