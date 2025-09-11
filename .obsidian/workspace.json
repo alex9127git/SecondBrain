@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математический анализ/Точные грани множеств.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Точные грани множеств"
+              "title": "README"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "e3a9daf41a8d217d",
         "type": "tabs",
-        "dimension": 48.37110481586402,
+        "dimension": 48.371104815864015,
         "children": [
           {
             "id": "30e70c077d222d43",
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Математический анализ/Точные грани множеств.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Точные грани множеств"
+              "title": "Graph of README"
             }
           }
         ]
@@ -214,12 +214,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "29a8ac170aae3b0d",
+  "active": "4690dfb6dfd86d42",
   "lastOpenFiles": [
+    "update_windows.bat",
+    "update_linux.sh",
+    "Математический анализ/Точные грани множеств.md",
     "update.bat",
     "Пустой документ",
     "Математический анализ/Счётные и несчётные множества.md",
-    "Математический анализ/Точные грани множеств.md",
     "Математический анализ/Примеры множеств в математике.md",
     "Математический анализ/Кванторы и символы.md",
     "Математический анализ/Понятие множества.md",
@@ -237,8 +239,6 @@
     "Математический анализ/Untitled.base",
     "Математический анализ",
     "pushchanges.sh",
-    "pushchanges.sg",
-    "update.sh",
     "Welcome.md"
   ]
 }
