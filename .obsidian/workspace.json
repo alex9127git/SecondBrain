@@ -6,7 +6,7 @@
       {
         "id": "d12f5826f3ada306",
         "type": "tabs",
-        "dimension": 51.628895184135985,
+        "dimension": 65.01416430594901,
         "children": [
           {
             "id": "29a8ac170aae3b0d",
@@ -14,12 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Математический анализ/Числовые последовательности.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Числовые последовательности"
+            }
+          },
+          {
+            "id": "888a8459309f9e3f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,7 +37,7 @@
       {
         "id": "e3a9daf41a8d217d",
         "type": "tabs",
-        "dimension": 48.371104815864015,
+        "dimension": 34.98583569405099,
         "children": [
           {
             "id": "30e70c077d222d43",
@@ -35,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Математический анализ/Числовые последовательности.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -46,24 +56,24 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": false,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
-                  "linkStrength": 1,
+                  "linkStrength": 0.50178412132025,
                   "linkDistance": 250,
-                  "scale": 1.1070486005239708,
+                  "scale": 1.0000000537671454,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of Числовые последовательности"
             }
           }
         ]
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Математический анализ/Операции объединения и пересечения.md",
+                "file": "Математический анализ/Точные грани множеств.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Операции объединения и пересечения"
+              "title": "Backlinks for Точные грани множеств"
             }
           },
           {
@@ -158,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Математический анализ/Операции объединения и пересечения.md",
+                "file": "Математический анализ/Точные грани множеств.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Операции объединения и пересечения"
+              "title": "Outgoing links from Точные грани множеств"
             }
           },
           {
@@ -187,16 +197,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Математический анализ/Точные грани множеств.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Точные грани множеств"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -217,16 +228,19 @@
   "active": "29a8ac170aae3b0d",
   "lastOpenFiles": [
     "Математический анализ/Точные грани множеств.md",
-    "Математический анализ/Операции объединения и пересечения.md",
     "Математический анализ/Счётные и несчётные множества.md",
     "README.md",
+    "Математический анализ/Операции объединения и пересечения.md",
+    "Математический анализ/Понятие множества.md",
+    "Математический анализ/Примеры множеств в математике.md",
+    "Математический анализ/Числовые последовательности.md",
+    "Математический анализ/Кванторы и символы.md",
+    "2025-09-11.md",
+    "Untitled.canvas",
     "update_windows.bat",
     "update_linux.sh",
     "update.bat",
     "Пустой документ",
-    "Математический анализ/Примеры множеств в математике.md",
-    "Математический анализ/Кванторы и символы.md",
-    "Математический анализ/Понятие множества.md",
     "∀.md",
     "home/alex/files/SecondBrain/Математический.md",
     "home/alex/files/SecondBrain",
