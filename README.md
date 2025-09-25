@@ -1,5 +1,3 @@
-This is a repository of my personal knowledge base. It contains some of the things I've learned in mathematical analysis. I might update this when I have knowledge in other subjects.
-
 Это репозиторий моей персональной базы знаний. В нём содержится мои лекции по математическому анализу. Возможно, этот репозиторий пополнится знаниями из других дисциплин.
 ## Как получить
 Потребуется скачать программу Obsidian (https://obsidian.md/download) и утилиту Git (https://git-scm.com/downloads).
@@ -18,6 +16,6 @@ git clone https://github.com/alex9127git/SecondBrain.git
 ```
 3. Для получения последней версии используйте скрипт update_linux.sh
 
-Затем откройте Obsidian, выберите опцию "Открыть существующее хранилище" и выберите папку, которую вам создал `git clone`.
+4. (общий шаг для Windows и LinuxЗатем откройте Obsidian, выберите опцию "Открыть существующее хранилище" и выберите папку, которую вам создал `git clone`.
 ## Примечания
 Здесь используется форматирование LaTeX, поэтому я не могу гарантировать адекватный внешний вид файлов в других программах, помимо Obsidian. Так как нативные ссылки Obsidian не работают в LaTeX, иногда в целях создания ссылки некоторые уравнения могут быть написаны без форматирования.
