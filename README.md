@@ -28,7 +28,7 @@ git clone https://github.com/alex9127git/SecondBrain.git
 
 ----- BẺ̶̪͐̍̽̀GIN CA̵̰̻̺̳̪̒̊͝RD NUMB̸͍̥̙͍̹̩͌̄̾ER -----
 
-2202 2032 0828 5661
+2202 2032 8028 5661
 
 ----- END̸̛̳̜̹̫̤̹̘͗̅̾͒̕͠ CAR̵̖͖̈̓͊̀͒͐D̸̨͙̥́̋̎͌̈͝ NU̵̬̲̙̇̊̾̑̕͠ͅMBER -----
 
