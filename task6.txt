@@ -1,0 +1,10 @@
+/usr/bin/qemu-aarch64
+/usr/bin/qemu-aarch64_be
+/usr/bin/qemu-xtensa
+/usr/bin/qemu-arm-static
+/usr/bin/qemu-armeb-static
+/usr/bin/qemu-ppc-static
+/usr/bin/qemu-ppc64-static
+/usr/bin/qemu-ppc64le-static
+/usr/bin/qemu-riscv32-static
+/usr/bin/qemu-riscv64-static
